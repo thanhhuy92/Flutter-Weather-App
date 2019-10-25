@@ -14,8 +14,13 @@
 
 * Sau khi hoàn tất tạo mới thì đã có sẵn một demo flutter.
 
-## Lấy API của Weather
+## Lấy Dữ Liệu Weather Từ API
 
 * Vào trang https://openweathermap.org.
+
 * Tạo tài khoản, sau khi tạo xong nó sẽ cấp cho tài khoản đó một API.
+
+* Click vào API trên thanh menu, sau đó click vào API doc tại "Current weather data".
+
+* Ở đây mình chọn API "By geographic coordinates" tức là lấy dữ liệu thời tiết thông qua tọa độ (lat, lon).
 
