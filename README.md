@@ -1,16 +1,21 @@
-# flutter_test2
+# APP WEATHER
 
-A new Flutter application.
+## Giới Thiệu
 
-## Getting Started
+* App được xây dựng bằng framework flutter (ngôn ngữ dart) và app chạy được cả Android và IOS.
 
-This project is a starting point for a Flutter application.
+* App thiết kế đơn giản với một số thông tin như nhiệt độ, độ ẩm, gió, sức ép.
 
-A few resources to get you started if this is your first Flutter project:
+* App có chức năng cho người dùng biết được thông tin thời tiết hiện tại ở nơi mình đang sống hoặc ở bất kì một nước nào đó trên trái đất chỉ cần GPS định vị được.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Thiết Lập Dự Án
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Mở Android Studio và tạo flutter mới với tên flutter-appweather.
+
+* Sau khi hoàn tất tạo mới thì đã có sẵn một demo flutter.
+
+## Lấy API của Weather
+
+* Vào trang https://openweathermap.org.
+* Tạo tài khoản, sau khi tạo xong nó sẽ cấp cho tài khoản đó một API.
+
