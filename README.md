@@ -22,5 +22,11 @@
 
 * Click vào API trên thanh menu, sau đó click vào API doc tại "Current weather data".
 
-* Ở đây mình chọn API "By geographic coordinates" tức là lấy dữ liệu thời tiết thông qua tọa độ (lat, lon) và click vào dòng "api.openweathermap.org/data/2.5/weather?lat=35&lon=139"
+* Ở đây mình chọn API "By geographic coordinates" tức là lấy dữ liệu thời tiết thông qua tọa độ (lat, lon) và click vào dòng chữ được đánh khung.
+
+* Ta thay đổi thanh địa chỉ như sau
+
+* Ở phần trước 
+
+* Ở phần sau ta lấy API ở tài khoản gán vào phần sau thanh địa chỉ.
 
