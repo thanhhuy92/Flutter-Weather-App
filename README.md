@@ -30,3 +30,5 @@
 
 * Ở phần sau ta lấy API ở tài khoản gán vào phần sau thanh địa chỉ.
 
+* Ta có kết quả
+
