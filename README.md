@@ -24,15 +24,28 @@
 
 * Tạo tài khoản, sau khi tạo xong nó sẽ cấp cho tài khoản đó một API.
 
+<img src= "Images/img-weather3.jpg" />
+
 * Click vào API trên thanh menu, sau đó click vào API doc tại "Current weather data".
+
+<img src= "Images/img-weather4.jpg" />
 
 * Ở đây mình chọn API "By geographic coordinates" tức là lấy dữ liệu thời tiết thông qua tọa độ (lat, lon) và click vào dòng chữ được đánh khung.
 
-* Ta thay đổi thanh địa chỉ như sau
+<img src= "Images/img-weather5.jpg" />
 
-* Ở phần trước 
+* Ta sẽ thay đổi thanh địa chỉ tại vị trí được khoanh
+
+<img src= "Images/img-weather6.jpg" />
+
+* Thay đổi ở phần trước
+
+<img src= "Images/img-weather7.jpg" />
 
 * Ở phần sau ta lấy API ở tài khoản gán vào phần sau thanh địa chỉ.
 
-* Ta có kết quả
+<img src= "Images/img-weather8.jpg" />
 
+* Và ta có kết quả
+
+<img src= "Images/img-weather9.jpg" />
