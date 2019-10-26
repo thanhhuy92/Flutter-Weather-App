@@ -12,7 +12,11 @@
 
 * Mở Android Studio và tạo flutter mới với tên flutter-appweather.
 
+<img src= "Images/img-weather1.jpg" />
+
 * Sau khi hoàn tất tạo mới thì đã có sẵn một demo flutter.
+
+<img src= "Images/img-weather2.jpg" />
 
 ## Lấy Dữ Liệu Weather Từ API
 
