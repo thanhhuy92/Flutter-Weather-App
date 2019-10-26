@@ -52,17 +52,27 @@
 
 * Copy hết nội dung bên dưới, vào trang http://json2csharp.com/, paste vào "Enter JSON or a URL to JSON" và click vào "Generate".
 
+<img src= "Images/img-weather10.jpg" />
+
 * Được kết quả như hình dưới.
+
+<img src= "Images/img-weather11.jpg" />
 
 * Quay lại Android Studio, ta tạo một package tên Models (chuột phải vào lib -> New -> Package).
 
 * Tạo một file dart tên WeatherModels trong Models (chuột phải Models -> New -> Dart File).
 
+<img src= "Images/img-weather12.jpg" />
+
 * Bên Json2csharp, ta copy class Coord và Weather gán vào trong file dart WeatherModels.
+
+<img src= "Images/img-weather13.jpg" />
 
 * Thay public -> final, thay { get; set;} -> ;.
 
 * Thêm constructor cho class và tạo lớp mô hình theo json_serializable.
+
+<img src= "Images/img-weather14.jpg" />
 
 
 
