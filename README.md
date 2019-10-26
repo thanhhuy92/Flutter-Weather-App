@@ -54,8 +54,16 @@
 
 * Được kết quả như hình dưới.
 
-* Quay lại Android Studio, ta tạo một package tên Models (chuột phải vào lib -> New -> Package)
+* Quay lại Android Studio, ta tạo một package tên Models (chuột phải vào lib -> New -> Package).
 
-* Tạo một file dart tên WeatherModels trong Models (chuột phải Models -> New -> Dart File)
+* Tạo một file dart tên WeatherModels trong Models (chuột phải Models -> New -> Dart File).
+
+* Bên Json2csharp, ta copy class Coord và Weather gán vào trong file dart WeatherModels.
+
+* Thay public -> final, thay { get; set;} -> ;.
+
+* Thêm constructor cho class và tạo lớp mô hình theo json_serializable.
+
+
 
 
