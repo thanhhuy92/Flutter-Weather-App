@@ -38,7 +38,7 @@
 
 <img src= "Images/img-weather6.jpg" />
 
-* Thay đổi ở phần trước
+* Thay đổi ở phần trước.
 
 <img src= "Images/img-weather7.jpg" />
 
@@ -46,6 +46,16 @@
 
 <img src= "Images/img-weather8.jpg" />
 
-* Và ta có kết quả
+* Và ta có kết quả.
 
 <img src= "Images/img-weather9.jpg" />
+
+* Copy hết nội dung bên dưới, vào trang http://json2csharp.com/, paste vào "Enter JSON or a URL to JSON" và click vào "Generate".
+
+* Được kết quả như hình dưới.
+
+* Quay lại Android Studio, ta tạo một package tên Models (chuột phải vào lib -> New -> Package)
+
+* Tạo một file dart tên WeatherModels trong Models (chuột phải Models -> New -> Dart File)
+
+
