@@ -58,6 +58,8 @@
 
 <img src= "Images/img-weather11.jpg" />
 
+## Đưa Dữ Liệu API vào Android Studio
+
 * Quay lại Android Studio, ta tạo một package tên Models (chuột phải vào lib -> New -> Package).
 
 * Tạo một file dart tên WeatherModels trong Models (chuột phải Models -> New -> Dart File).
@@ -72,7 +74,16 @@
 
 * Thêm constructor cho class và tạo lớp mô hình theo json_serializable.
 
+* json_serializable có thể nghiên cứu tại trang này https://flutter.dev/docs/development/data-and-backend/json
+
 <img src= "Images/img-weather14.jpg" />
+
+* Tương tự với class Main, Wind, Clounds và Sys.
+
+* Riêng class RootObject đổi tên thành WeatherModel.
+
+* Lớp mô hình theo json_serializable của class WeatherModel.
+
 
 
 
