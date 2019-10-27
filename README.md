@@ -84,6 +84,30 @@
 
 * Lớp mô hình theo json_serializable của class WeatherModel.
 
+## Lấy Dữ Liệu API qua HTTP
+
+* Trước tiên, cài plugin http vào file pubspec.yaml (Tệp pubspec quản lý nội dung và dependencies cho ứng dụng Flutter, nghiên cứu thêm https://dart.dev/tools/pub/pubspec).
+
+* Vào trang https://pub.dev là nới chứa các Dart Packages, search http.
+
+* Tab Readme cho ta biết phiên bản mới nhất của plugin http, http là gì và cách dùng http.
+
+* Tab Example cho ta biết rõ hơn về cách dùng.
+
+* Tab Versions là các phiên bản của plugin http.
+
+* Tab Installing copy vùng khoanh.
+
+* Gán vào file pubspec.yaml, nhấn vào "Packages get".
+
+* Sau khi hoàn tất việc gán plugin http, chuyển sang file main.dart.
+
+* Xóa hết nội dung chỉ để lại dòng import trên cùng.
+
+* Và tạo lại main.dart mới.
+
+
+
 
 
 
