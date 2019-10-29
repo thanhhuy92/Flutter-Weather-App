@@ -124,31 +124,49 @@
 
 * Và gán import.
 
+<img src= "Images/img-weather22.jpg" />
+
 ## Thiết Kế Giao Diện
 
-* Thêm code đưa dữ liệu API.
+* Add code đưa dữ liệu API.
 
 * Và chuyển đổi sang mô hình dữ liệu và hiển thị tên địa điểm trên màn hình.
+
+<img src= "Images/img-weather23.jpg" />
 
 * Cách xây dựng FutureBuilder xem tại đây https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html
 
 * Run và ta có tên địa điểm.
 
+<img src= "Images/img-weather25.jpg" />
+
 * Hiện một vài thông tin ở địa điểm đó.
 
 * Để hiện thời gian thì phải có plugin intl (cách thực hiện như plugin http mà ta đã làm ở trên) và import intl.
+
+<img src= "Images/img-weather24.jpg" />
 
 * Tên địa điểm, nhiệt độ
 
 * Và Hình ảnh được lấy trên trang https://openweathermap.org và dùng lệnh weather[0].icon để hình ảnh được thay đổi theo thời gian.
 
+<img src= "Images/img-weather26.jpg" />
+
 * Thời gian
+
+<img src= "Images/img-weather27.jpg" />
 
 * Tốc độ gió và sức ép
 
+<img src= "Images/img-weather28.jpg" />
+
 * Độ ẩm và tọa độ
 
+<img src= "Images/img-weather29.jpg" />
+
 * Run và ta có kết quả
+
+<img src= "Images/img-weather30.jpg" />
 
 
 
