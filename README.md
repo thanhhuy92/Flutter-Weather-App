@@ -138,11 +138,19 @@
 
 * Để hiện thời gian thì phải có plugin intl (cách thực hiện như plugin http mà ta đã làm ở trên) và import intl.
 
-* Tên địa điểm
+* Tên địa điểm, nhiệt độ
 
-* Hình ảnh được lấy trên trang https://openweathermap.org và dùng lệnh weather[0].icon để hình ảnh được thay đổi theo thời gian.
+* Và Hình ảnh được lấy trên trang https://openweathermap.org và dùng lệnh weather[0].icon để hình ảnh được thay đổi theo thời gian.
 
-* Nhiệt độ
+* Thời gian
+
+* Tốc độ gió và sức ép
+
+* Độ ẩm và tọa độ
+
+* Run và ta có kết quả
+
+
 
 
 
