@@ -146,33 +146,35 @@
 
 <img src= "Images/img-weather24.jpg" />
 
-* Tên địa điểm, nhiệt độ
+* Tên địa điểm, nhiệt độ.
 
 * Và Hình ảnh được lấy trên trang https://openweathermap.org và dùng lệnh weather[0].icon để hình ảnh được thay đổi theo thời gian.
 
 <img src= "Images/img-weather26.jpg" />
 
-* Thời gian
+* Thời gian.
 
 <img src= "Images/img-weather27.jpg" />
 
-* Tốc độ gió và sức ép
+* Tốc độ gió và sức ép.
 
 <img src= "Images/img-weather28.jpg" />
 
-* Độ ẩm và tọa độ
+* Độ ẩm và tọa độ.
 
 <img src= "Images/img-weather29.jpg" />
 
-* Run và ta có kết quả
+* Run và ta có kết quả.
 
 <img src= "Images/img-weather30.jpg" />
 
+* Trang trí lại giao diện.
 
+* Tạo nút thoát dùng chức năng AlertDialog để thông báo người dùng.
 
+## Những Lỗi Đang Gặp
 
-
-
+* Khi lấy lấy file từ github về và chạy.
 
 
 
