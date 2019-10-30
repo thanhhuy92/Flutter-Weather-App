@@ -172,9 +172,12 @@
 
 * Tạo nút thoát dùng chức năng AlertDialog để thông báo người dùng.
 
+<img src= "Images/img-weather31.jpg" />   <img src= "Images/img-weather32.jpg" />
+
 ## Những Lỗi Đang Gặp
 
 * Khi lấy lấy file từ github về và chạy.
 
+<img src= "Images/img-weather33.jpg" />
 
 
